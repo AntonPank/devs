@@ -2,7 +2,7 @@
 
 # How to structure your HTML Document
 
-## **Part 1 - HTML is a "markup language"**
+## **Part 1 - HTML is a "markup language".**
 > HTML Document has a predefined structure and components representing text and graphical elements of a web page. These elements are *"tagged"* with special symbols, which allows a web browser to read and interpret the contents of the document as a code. Tags wrap up each element of the page. Although, tags may have attributes allowing developers to add some specific conditions to those elements, including styling and behavioral aspects. 
 
 For example: 
